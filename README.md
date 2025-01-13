@@ -3,13 +3,14 @@
 </p>
 
 <p align="center" font-size: 20px;">
-"Even death sounds pleasant when I'm with you."
+"🇪🇻🇪🇳 🇩🇪🇦🇹🇭 🇸🇴🇺🇳🇩🇸 🇵🇱🇪🇦🇸🇦🇳🇹 🇼🇭🇪🇳 🇮'🇲 🇼🇮🇹🇭 🇾🇴🇺."
 </p>
 
-<h1 align="center"> ABOUT FIFI
+<h1 align="center"> ABOUT FIFI </h1>
   <p align="center" font-size: 20px;">
 currently in progress!!
 </p>
+  
 <p align="center">
   <img width="300" height="300" src="https://media.tenor.com/AUp8Sxn0-wAAAAAM/dan-heng-hsr.gif">
 </p>
